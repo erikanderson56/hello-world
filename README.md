@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+
+Howdy, I'm supposed to write something about myself.  
